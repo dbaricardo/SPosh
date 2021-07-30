@@ -1,0 +1,1 @@
+﻿Get-GPResultantSetOfPolicy -ReportType html -Computer COMPHOST -user LOGINUSER -Path C:\USER_PS\compatibilityGPO.html
